@@ -1,0 +1,17 @@
+[{
+  "_id": 1,
+  "Lugar": "Tarragona",
+  "Capacidad": 150
+},{
+  "_id": 2,
+  "Lugar": "Barcelona",
+  "Capacidad": 200
+},{
+  "_id": 3,
+  "Lugar": "Valencia",
+  "Capacidad": 150
+},{
+  "_id": 4,
+  "Lugar": "Madrid",
+  "Capacidad": 250
+}]

@@ -1,0 +1,21 @@
+[{
+  "_id": 1,
+  "nombre": "Patata",
+  "Precio": 1,
+  "Fabricante": 1
+},{
+  "_id": 2,
+  "nombre": "Zanahoria",
+  "Precio": 2,
+  "Fabricante": 2
+},{
+  "_id": 3,
+  "nombre": "Cebolla",
+  "Precio": 2,
+  "Fabricante": 2
+},{
+  "_id": 4,
+  "nombre": "Mazorca",
+  "Precio": 1,
+  "Fabricante": 2
+}]

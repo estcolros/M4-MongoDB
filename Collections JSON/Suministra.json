@@ -1,0 +1,17 @@
+[{
+  "_id": 1,
+  "IdProveedor": 1,
+  "Precio": 15
+},{
+  "_id": 2,
+  "IdProveedor": 3,
+  "Precio": 25
+},{
+  "_id": 3,
+  "IdProveedor": 4,
+  "Precio": 5
+},{
+  "_id": 4,
+  "IdProveedor": 2,
+  "Precio": 35
+}]

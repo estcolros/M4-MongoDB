@@ -1,0 +1,17 @@
+[{
+  "_id": 1,
+  "Nombre": "Inmune",
+  "CalificacionEdad": 12
+},{
+  "_id": 2,
+  "Nombre": "Hope",
+  "CalificacionEdad": 16
+},{
+  "_id": 3,
+  "Nombre": "Bajocero",
+  "CalificacionEdad": 10
+},{
+  "_id": 4,
+  "Nombre": "Raya y el último dragón",
+  "CalificacionEdad": 4
+}]

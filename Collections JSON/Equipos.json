@@ -1,0 +1,17 @@
+[{
+  "_id": 1234,
+  "Nombre": "Equipo1",
+  "Facultad": 1
+},{
+  "_id": 2234,
+  "Nombre": "Equipo2",
+  "Facultad": 3
+},{
+  "_id": 3234,
+  "Nombre": "Equipo3",
+  "Facultad": 4
+},{
+  "_id": 4234,
+  "Nombre": "Equipo4",
+  "Facultad": 2
+}]

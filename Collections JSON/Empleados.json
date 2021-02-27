@@ -1,0 +1,21 @@
+[{
+  "_id": "15332248C",
+  "Nombre": "Manolo",
+  "Apellidos": "El Del Bombo",
+  "Departamento": 3
+},{
+  "_id": "36998846A",
+  "Nombre": "Albert",
+  "Apellidos": "Einstein",
+  "Departamento": 2
+},{
+  "_id": "12345678F",
+  "Nombre": "Steve",
+  "Apellidos": "Jobs",
+  "Departamento": 1
+},{
+  "_id": "48054310X",
+  "Nombre": "Marco",
+  "Apellidos": "Aurelio",
+  "Departamento": 1
+}]

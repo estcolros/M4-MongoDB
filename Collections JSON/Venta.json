@@ -1,0 +1,26 @@
+[{
+  "_id": 1,
+  "Cajero": 23,
+  "Maquina": 1,
+  "Producto": 56
+},{
+  "_id": 2,
+  "Cajero": 19,
+  "Maquina": 2,
+  "Producto": 22
+},{
+  "_id": 3,
+  "Cajero": 6,
+  "Maquina": 3,
+  "Producto": 15
+},{
+  "_id": 4,
+  "Cajero": 12,
+  "Maquina": 4,
+  "Producto": 65
+},{
+  "_id": 5,
+  "Cajero": 16,
+  "Maquina": 5,
+  "Producto": 86
+}]

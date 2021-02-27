@@ -1,0 +1,17 @@
+[{
+  "_id": "1234567A",
+  "NomApels": "Juan Pérez",
+  "Facultad": "Ciencias"
+},{
+  "_id": "2234567A",
+  "NomApels": "Roberto Pérez",
+  "Facultad": "Arquitectura"
+},{
+  "_id": "3234567A",
+  "NomApels": "Pedro Pérez",
+  "Facultad": "Ingeniería"
+},{
+  "_id": "4234567A",
+  "NomApels": "Juan Pérez",
+  "Facultad": "Derecho"
+}]

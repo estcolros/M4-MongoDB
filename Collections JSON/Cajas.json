@@ -1,0 +1,21 @@
+[{
+  "_id": 1,
+  "Contenido": "Papel",
+  "Valor": 10,
+  "Almacen": 1
+},{
+  "_id": 2,
+  "Contenido": "Cartulina",
+  "Valor": 15,
+  "Almacen": 2
+},{
+  "_id": 3,
+  "Contenido": "Lapiz",
+  "Valor": 5,
+  "Almacen": 3
+},{
+  "_id": 4,
+  "Contenido": "Boli",
+  "Valor": 7,
+  "Almacen": 1
+}]

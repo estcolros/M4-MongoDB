@@ -1,0 +1,41 @@
+[{
+  "_id": {
+    "$oid": "603a27027f1805dffbc377c0"
+  },
+  "id": "1234567A",
+  "Nombre": "Juan García",
+  "DNIJefe": "1234567B",
+  "Despacho": 1
+},{
+  "_id": {
+    "$oid": "603a27027f1805dffbc377c3"
+  },
+  "id": "2234567A",
+  "Nombre": "Pepe García",
+  "DNIJefe": "1234567B",
+  "Despacho": 1
+},{
+  "_id": {
+    "$oid": "603a27027f1805dffbc377c6"
+  },
+  "id": "3234567A",
+  "Nombre": "Pedro García",
+  "DNIJefe": "1234567B",
+  "Despacho": 2
+},{
+  "_id": {
+    "$oid": "603a27027f1805dffbc377c9"
+  },
+  "id": "4234567A",
+  "Nombre": "Juan García",
+  "DNIJefe": "1234567B",
+  "Despacho": 3
+},{
+  "_id": {
+    "$oid": "603a27027f1805dffbc377cc"
+  },
+  "id_": "5234567A",
+  "Nombre": "José García",
+  "DNIJefe": "1234567B",
+  "Despacho": 4
+}]
